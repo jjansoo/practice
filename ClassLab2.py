@@ -6,7 +6,7 @@ class Member:
         self.m_birthyear = birthyear
 
 
-member1 = Member('홍진수','dkdlfjs7894','123123','961008')
+member1 = Member('홍진수','dkdlfjs7894','124563','961008')
 member2 = Member('정재용','jaeyongism','321321','960121')
 member3 = Member('김아무개','kimamugae','456456','961111')
 
