@@ -23,3 +23,6 @@ amount = int(input("추가 수량 입력:"))
 obj.addStock(amount)
 
 print("재고 수량 :",obj.stockNum)
+
+
+#깃허브 연습
